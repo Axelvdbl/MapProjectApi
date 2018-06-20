@@ -1,5 +1,8 @@
 {
   "name": "ApiMapProject",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "@angular/cli": "^6.0.8"
+  }
 }
